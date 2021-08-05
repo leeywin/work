@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-05T10:19:36.077Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="cvP91nZCB1lwPVofoVlF" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-05T10:22:15.272Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="j1o5Dtg1kcIthvja17FY" version="14.9.4" type="github">
   <diagram id="R-m6Tb4T8tBQgtUXP2a2" name="Page-1">
     <mxGraphModel dx="415" dy="363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -89,10 +89,16 @@
           <mxGeometry x="30" y="45" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tKbJSPr6s4l4xf4vFSdI-46" value="实时通讯内核" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="tKbJSPr6s4l4xf4vFSdI-34">
-          <mxGeometry x="160" y="45" width="50" height="200" as="geometry" />
+          <mxGeometry x="163" y="45" width="50" height="200" as="geometry" />
         </mxCell>
         <mxCell id="tKbJSPr6s4l4xf4vFSdI-58" value="非周期处理单元" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="tKbJSPr6s4l4xf4vFSdI-34">
-          <mxGeometry x="30" y="135" width="70" height="70" as="geometry" />
+          <mxGeometry x="30" y="135" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tKbJSPr6s4l4xf4vFSdI-59" value="周期处理单元" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="tKbJSPr6s4l4xf4vFSdI-34">
+          <mxGeometry x="100" y="135" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tKbJSPr6s4l4xf4vFSdI-61" value="输入输出设定信息" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=14;" vertex="1" parent="tKbJSPr6s4l4xf4vFSdI-34">
+          <mxGeometry x="30" y="225" width="70" height="45" as="geometry" />
         </mxCell>
         <mxCell id="tKbJSPr6s4l4xf4vFSdI-29" value="输入输出模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="tKbJSPr6s4l4xf4vFSdI-26">
           <mxGeometry x="830" y="525" width="120" height="60" as="geometry" />
