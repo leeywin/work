@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-09T05:59:25.969Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="Y71c74GNl3o4ZqFUBiyK" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-09T06:07:36.977Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="TRx13jJAweB6cep7ic6E" version="14.9.4" type="github">
   <diagram id="R-m6Tb4T8tBQgtUXP2a2" name="Page-1">
-    <mxGraphModel dx="1497" dy="1091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1233" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" visible="0" />
@@ -349,7 +349,7 @@
         <mxCell id="tKbJSPr6s4l4xf4vFSdI-199" value="输入输出初始化" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;shadow=0;fontSize=14;fillColor=none;" vertex="1" parent="tKbJSPr6s4l4xf4vFSdI-195">
           <mxGeometry x="1510" y="320" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tKbJSPr6s4l4xf4vFSdI-201" value="设定周期和非周期缓存和处理单元" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;shadow=0;fontSize=14;fillColor=none;" vertex="1" parent="tKbJSPr6s4l4xf4vFSdI-195">
+        <mxCell id="tKbJSPr6s4l4xf4vFSdI-201" value="设定周期和非周期缓存和处理单元（控制系统端）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;shadow=0;fontSize=14;fillColor=none;" vertex="1" parent="tKbJSPr6s4l4xf4vFSdI-195">
           <mxGeometry x="1510" y="420" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tKbJSPr6s4l4xf4vFSdI-204" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;startArrow=none;startFill=0;endArrow=block;endFill=1;fillColor=#E6E6E6;" edge="1" parent="tKbJSPr6s4l4xf4vFSdI-195" source="tKbJSPr6s4l4xf4vFSdI-203" target="tKbJSPr6s4l4xf4vFSdI-199">
@@ -357,6 +357,14 @@
         </mxCell>
         <mxCell id="tKbJSPr6s4l4xf4vFSdI-203" value="输入输出&lt;br&gt;设定信息" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;shadow=0;fontSize=14;fillColor=none;" vertex="1" parent="tKbJSPr6s4l4xf4vFSdI-195">
           <mxGeometry x="1710" y="315" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tKbJSPr6s4l4xf4vFSdI-209" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;startArrow=none;startFill=0;endArrow=block;endFill=1;fillColor=#E6E6E6;" edge="1" parent="tKbJSPr6s4l4xf4vFSdI-195" target="tKbJSPr6s4l4xf4vFSdI-210">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1590.0000000000005" y="470" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tKbJSPr6s4l4xf4vFSdI-210" value="设定缓冲处理单元&lt;br&gt;（模块端）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;shadow=0;fontSize=14;fillColor=none;" vertex="1" parent="tKbJSPr6s4l4xf4vFSdI-195">
+          <mxGeometry x="1510" y="520" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
